@@ -9,6 +9,7 @@ public class Base {
 	/*
 	 * Declaring methods with default, public, private, protected types
 	 */
+	
 
 	void methodDefault()
 	{
