@@ -23,7 +23,7 @@ public class CharDemo {
 				// ASCI code representation
 				int a = 'A';
 				System.out.println(a);
-		//System.out.println("hi");
+		System.out.println("hi");
 
 	}
 
